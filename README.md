@@ -16,7 +16,6 @@ This project aims to build a NLP model that can distinguish between real and fak
   - Logistic Regression
   - Decision Tree
   - Random Forest
-  - Support Vector Machine
 - Evaluation of models using accuracy, precision, recall, and F1-score metrics.
 - Predictive capability on new samples.
 
